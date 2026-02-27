@@ -19,8 +19,11 @@ Thumbs.db
 # Docs / sources
 *.psd
 *.ai
+*.txt
+publication_guide.md
 
 # Screenshots source (optional)
 screenshots/
 
 draft/
+history/

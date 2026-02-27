@@ -2,7 +2,7 @@
     "name": "neon-shibuya-theme",
     "displayName": "Neon Shibuya Theme",
     "description": "Neon Shibuya Theme is a dark VS Code color theme inspired by neon lights at dusk.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "tinchen777",
     "engines": {
         "vscode": "^1.80.0"
